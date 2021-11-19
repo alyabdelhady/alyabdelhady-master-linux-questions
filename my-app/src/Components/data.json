@@ -1,0 +1,44 @@
+ [
+    {
+      "id": 0,
+      "question": "People working in the same department or office?",
+      "correctAnswer": "Colleagues",
+      "choicesArray": ["Companions", "Mates", "Colleagues", "Fellows"]
+    },
+   {
+       "id":1,
+      "question": "A person who eats too much?",
+      "correctAnswer": "Glutton",
+      "choicesArray": ["Sensualist", "Omnivore", "Reveller", "Glutton"]
+   },
+   {
+       "id":2,
+      "question": "Animals that can live on land and water?",
+      "correctAnswer": "Amphibians",
+      "choicesArray": ["Gregarious", "Reptiles", "Amphibians", "Aquatic"]
+   },
+   {
+       "id":3,
+      "question": "A person who hates women?",
+      "correctAnswer": "Misogynist",
+      "choicesArray": ["Bigamist", "Gullible", "Intolerant", "Misogynist"]
+   },
+   {
+       "id":4,
+      "question": "Very pleasing to eat?",
+      "correctAnswer": "Toothsome",
+      "choicesArray": ["Inedible", "Disgusting", "Toothsome", "Tasteless"]
+   },
+   {
+       "id":5,
+      "question": "A sleeping room for a number of people?",
+      "correctAnswer": "Dormitory",
+      "choicesArray": ["Dump", "Dormitory", "Fireside", "Office"]
+   },
+   {
+       "id":6,
+      "question": "A small house with all rooms on one floor?",
+      "correctAnswer": "Bungalow",
+      "choicesArray": ["Cottage", "Bungalow", "Castle", "Flat"]
+   }
+  ]

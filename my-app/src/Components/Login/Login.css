@@ -1,0 +1,38 @@
+.gradient-form {
+  width: 37%;
+  margin: auto;
+}
+
+.form {
+  width: 300px;
+}
+
+.form p {
+  padding: 20px 0;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+}
+
+.validate-massage p {
+  text-align: left;
+  font-size: 13px;
+  color: red;
+}
+
+@media screen and (max-width: 968px) {
+  .gradient-form {
+    width: 80%;
+    margin: auto;
+  }
+  .form {
+    width: 180px;
+    margin: auto;
+  }
+  .login-form img {
+    width: 60%;
+  }
+  .form p {
+    font-size: 13px;
+  }
+}

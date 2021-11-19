@@ -1,0 +1,30 @@
+.exam {
+  margin-top: 90px;
+  width: 60%;
+}
+
+.choice {
+  padding: 5px 0;
+}
+
+.radio {
+  cursor: pointer;
+}
+
+.radio span {
+  padding-left: 5px;
+}
+
+.exam .button {
+  text-align: end;
+  margin-top: 20px;
+}
+.exam h1 {
+  color: darkblue;
+}
+
+@media screen and (max-width: 768px) {
+  .exam {
+    width: 80%;
+  }
+}
